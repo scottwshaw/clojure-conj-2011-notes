@@ -58,6 +58,17 @@
 ### \#encapsulate (the entire world)
 * come to them, don't make them come to you
 
+## Questions
+
+### from Rich Hickey
+* CTOs want lots of cheap people, but Clojure values people highly how
+  do you get past that?
+* Neal: Yeah, that's hard.  Ruby is helping that some but we need to
+  spread that idea in general in the industry
+* Q: But you're missing the point.  Companies want to reuse their
+  human assets.
+* Neal: we don't want to displace, we want to teach.  Create
+  Clojureists everywhere.
 
 
 
